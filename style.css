@@ -2,13 +2,16 @@ body{
     background-image: url(image/fundo.webp);
     background-color: darkgrey;
 }
-h3{
+.titulo{
     font-family: cursive;
     font-size: 25px;
     margin: 15px;
     padding: 15px;
     text-align: center;
+    text-decoration: none;
+    color: black;
 }
+
 .letra{
     display: inline-block;
     width: auto;

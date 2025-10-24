@@ -10,6 +10,7 @@
     display: flex;
 
     background-image: url(image/logp);
+    background-size: cover;
     width: auto;
     height: auto;
     border-radius: 50%;

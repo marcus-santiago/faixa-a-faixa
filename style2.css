@@ -13,6 +13,7 @@ body{
 .logo{
     border-radius: 50px;
     width: 60%;
+    scale: 100%;
     box-shadow: 0px 0px 50px rgb(183, 65, 14);  
 }
 
@@ -51,10 +52,17 @@ img{
     font-size: 26px;
     width: 500px;
 }
+
 .indice2{
     font-family: "Caprasimo", serif;
     font-size: 26px;
     width: 500px;
+}
+
+.indice3{
+    font-family: "Caprasimo", serif;
+    font-size: 26px;
+    width: 400px;
 }
 
 .letra{
@@ -85,3 +93,22 @@ h2{
     padding: 25px;
     margin: 25px;
 }
+
+.discografia{
+    background-color: rgb(255, 255, 255, 0.5);
+    background-size: 300px;
+    border-radius: 25px;
+    padding: 25px;
+    margin: 25px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.spotify{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 0px 0px 80px rgb(0, 0, 0);
+}
+

@@ -37,7 +37,9 @@ img{
     color: white;
     display: flex;
     position: sticky;
+    top: 0;
     border: 5px solid none;
+    background-color: black;
 }
 
 .topo{
@@ -72,8 +74,14 @@ h1{
     text-align: center;
 }
 
+h2{
+    text-align: center;
+}
+
 .curiosidade{
     background-color: rgb(255, 255, 255, 0.5);
+    background-size: 300px;
     border-radius: 25px;
-
+    padding: 25px;
+    margin: 25px;
 }

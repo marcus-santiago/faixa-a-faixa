@@ -1,0 +1,51 @@
+.caixaLP{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+    background-image: url(image/logp);
+    width: auto;
+    height: auto;
+    border-radius: 50%;
+    border: 0px;
+}
+
+.discoLP{
+    width: auto;    
+    
+}
+
+
+.tradução{
+    width: auto;
+    top: 5px;
+    
+}
+.lyricsLP{
+    
+    color: white;
+    text-align: right;
+    margin: 5px;
+}
+
+.traduçãoLP{
+    
+    color: white;
+    text-align: left;
+    margin: 5px;
+
+}
+
+
+H3{
+    text-align: center;
+    color: white;
+}
+
+body{
+    background-image:url(image/fundoLP.gif);
+    background-attachment: scroll;
+    background-position: top;
+    background-size: 100%;
+    scale: auto;
+}

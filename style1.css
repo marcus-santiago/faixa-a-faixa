@@ -14,18 +14,6 @@
     margin-right: auto;
 }
 
-.caixaLP{
-    justify-content: center;
-    align-items: center;
-    display: flex;
-
-    background-image: url(image/logp);
-    width: auto;
-    height: auto;
-    border-radius: 50%;
-    border: 0px;
-}
-
 .disco.letra{
     width: 750px;
     height: 750px;
@@ -40,34 +28,14 @@
     justify-content: center;
     align-items: center;
     display: flex;
+    overflow: hidden;
 }
-.discoLP{
-    width: auto;    
-    
-}
-.tradução{
-    width: auto;
-    top: 5px;
-    
-}
+
 .lyrics{
     background-color: rgb(192,192,192,0.4);
     padding: 0px;
     margin-left: 5px;
     margin-right: 5px;
-}
-.lyricsLP{
-    
-    color: white;
-    text-align: right;
-    margin: 5px;
-}
-.traduçãoLP{
-    
-    color: white;
-    text-align: left;
-    margin: 5px;
-
 }
 
 .lg{
@@ -87,29 +55,21 @@
 }
 h1{
     text-align: center;  
-    padding-top: 25px;  
+    padding-top: 50px;  
 }
 
-H3{
-    text-align: center;
-    color: white;
+.titulo{
+    padding: 0px;
 }
 
-body{
-    background-image:url(image/fundoLP.gif);
-    background-attachment: scroll;
-    background-position: top;
-    background-size: 100%;
-    scale: auto;
-}
-
-.disco.curiosidade{
+.curiosidade{
     width: 600px;
     height: 600px;
     border-radius: 50%;
     background-color: rgb(255, 255, 255, 0.5);
     border: 0px; 
-    
+    margin: 0px;
+    padding: 0px;
     justify-content: center;
     align-items: center;
     text-align: center;

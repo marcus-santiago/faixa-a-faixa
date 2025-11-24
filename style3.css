@@ -15,6 +15,22 @@
     
 }
 
+.lg{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.logo{
+    border-radius: 50px;
+    width: 700px;
+    scale: 100%;
+    box-shadow: 0px 0px 30px rgb(94, 64, 214); 
+    text-align: center;   
+    display: flex;
+    
+
+}
 
 .tradução{
     width: auto;
